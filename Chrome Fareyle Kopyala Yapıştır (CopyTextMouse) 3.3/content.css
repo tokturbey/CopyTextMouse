@@ -1,0 +1,4 @@
+html[copytextmouse="enabled"] *:not(.copytextmouse-notification) {
+  -moz-user-select: text !important;
+  user-select: text !important;
+}
