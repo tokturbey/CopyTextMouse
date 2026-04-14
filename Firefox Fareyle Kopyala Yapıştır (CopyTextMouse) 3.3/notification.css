@@ -1,0 +1,27 @@
+﻿.copytextmouse-notification {
+  box-sizing: border-box;
+  position: fixed;
+  z-index: 2147483647;
+  bottom: 12px;
+  right: 12px;
+  background-color: #51a351;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  pointer-events: none;
+  overflow: hidden;
+  margin: 0 0 6px;
+  padding: 15px 20px;
+  width: auto;
+  min-width: 150px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  opacity: 0.95;
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+.copytextmouse-notification.hide {
+  opacity: 0;
+  transform: translateY(20px);
+}

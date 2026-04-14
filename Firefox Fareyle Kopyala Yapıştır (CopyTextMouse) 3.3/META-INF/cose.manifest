@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: options.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: suLKeVhjRJK9HAEsD/MPgtd6yxI=
+SHA256-Digest: EEnLjTOfWNhfLFfg4KfOcngSMDC/hSoaTGCm8FQdlbI=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6bMFLuyu0jvzMxpuQnbnZ+Mw/Z0=
+SHA256-Digest: VIEaHn1jX7wh72q5G/7xPpHPLxNBFFNyWIt2K9l+Qp0=
+
+Name: options.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: c3m3OvrTPDhHqRaPRgkzd9QtAZc=
+SHA256-Digest: XwS1S+e0kfOt5Xh69xtxQVDedkmW3wOYaSyWbKRHioM=
+
+Name: notification.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: l7VNZgLxBsQTMpT1CNnE5iApCHw=
+SHA256-Digest: xsYI4LJ7An8n7Ai34P4dH5eqAVe8mZ8Y4E7GIta02vE=
+
+Name: background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: UYvIMFRUGUkIkBquT7JhyUbH83E=
+SHA256-Digest: dYAew5WFyG9FfhsfB0UHPFJykhfbmuWNLE+DDQceIUY=
+
+Name: copytextmouse.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: bbuaNMTj5g5U/NptaTxUIv7XzgI=
+SHA256-Digest: cxLRNb+pYo7E6099pXLCNYuZEYDVhLt+bspCXJZSQSc=
+
+Name: content.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: tGgp2gegPsKyCdLCKnyELLuwCG0=
+SHA256-Digest: P0u0hM2qTYfAWY+9sfoF8okB4/2FANcnIHA22ILENOc=
+
+Name: content.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GmDEjtu3D4UJbjXVyxCEmLqBZdA=
+SHA256-Digest: r7VhhQIvRMuGZHbMlEsg0RyDsme5GchzsUIXaUomAA8=
+
+Name: copy.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zz/0cApZ/YlbHLNbIrQZ9OAVGFM=
+SHA256-Digest: clP9L9WKXYYE42uGxJpe+aW79+mI6LVMT+NA2wGWR/Y=
+
